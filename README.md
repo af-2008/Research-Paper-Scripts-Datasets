@@ -33,3 +33,16 @@ Used for robustness controls (urbanisation, density)
 
 Shapefiles
 Source: Humanitarian Data Exchange – Ukraine Admin Boundaries: https://data.humdata.org/
+
+SCRIPTS:
+
+Data cleaning conflict exposure:           Script that takes raw data and helps clean it and remove unnecessary info about conflict.
+Merging Datasets V2                        Script that merges all the datasets and csv files 
+Data Cleaning script for trade:            Script that cleans a raw dataset on trade
+Figure Visualiser:                         Script that helps build figures and tables and plots 
+H5 bulk downloader:                        Script that takes the NTL data and helps me automatically download it all
+
+
+
+
+
