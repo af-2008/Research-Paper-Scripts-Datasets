@@ -1,14 +1,5 @@
 This study investigates the extent to which international trade integration reduces the economic impact of armed conflict at the subnational level, using panel data from 27 Ukrainian oblasts between 2012 and 2022. Night-time light (NTL) intensity serves as a proxy for economic activity, and conflict severity is drawn from geocoded event-level data
  Contents:
-| Folder/File           | Description                                                   |
-| --------------------- | ------------------------------------------------------------- |
-| `data/`               | Cleaned and merged datasets used in the analysis              |
-| `scripts/`            | Python scripts for data cleaning, analysis, and visualisation |
-| `figures/`            | High-resolution figures (e.g. regression plots, maps)         |
-| `tables/`             | Tables used in the manuscript (including regression outputs)  |
-| `regression_model.py` | Core script used to run fixed-effects panel regressions       |
-| `README.md`           | This file                                                     |
-
 
 All datasets are either publicly available or derived from publicly available sources:
 
